@@ -2,6 +2,7 @@
 MIDI controller
 
 8 footswitch, 2 expression pedal with 8 neopixel foot controller for Eventide H9.
+License MPL v2.0, originally written by Jack Ha.
 
 button numbering:
 5 6 7 8
