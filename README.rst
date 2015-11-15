@@ -27,16 +27,10 @@ thingiverse
 http://www.thingiverse.com/thing:1132912
 
 
-.. image: images/image.jpg
-
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
-   :alt: alternate text
-   :align: right
-
+.. image: images/IMG_2807.JPG
+   :scale: 25 %
 
 setup
 -----
 
-Make the thing.
+Make the thing. See Thingiverse.
