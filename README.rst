@@ -1,6 +1,9 @@
 midi-footcontroller-arduino
 ---------------------------
 
+.. image:: images/IMG_2807.JPG
+   :scale: 25 %
+
 License MPL v2.0, originally written by Jack Ha.
 
 The foot controller has 2 expression pedal inputs and 8 momentary buttons and was made using an Arduino Uno. 
@@ -26,9 +29,6 @@ thingiverse
 
 http://www.thingiverse.com/thing:1132912
 
-
-.. image:: images/IMG_2807.JPG
-   :scale: 25 %
 
 setup
 -----
