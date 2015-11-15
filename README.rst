@@ -27,7 +27,7 @@ thingiverse
 http://www.thingiverse.com/thing:1132912
 
 
-.. image: images/IMG_2807.JPG
+.. image:: images/IMG_2807.JPG
    :scale: 25 %
 
 setup
