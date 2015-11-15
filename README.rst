@@ -7,6 +7,7 @@ midi-footcontroller-arduino
 License MPL v2.0, originally written by Jack Ha.
 
 The foot controller has 2 expression pedal inputs and 8 momentary buttons and was made using an Arduino Uno. 
+I'm using this pedal with an Eventide H9. Awesome fx pedal, but not enough buttons :-)
 
 Preset mode:
 Page Up, Page Down, Tuner, Mode
